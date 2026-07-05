@@ -1,0 +1,460 @@
+{
+  "isLoggedIn": true,
+  "userName": "Emir",
+  "targetExam": "10. Sınıf",
+  "themeColor": "#F2A65A",
+  "theme": "light",
+  "xp": 1340,
+  "level": 7,
+  "streak": 12,
+  "camps": [
+    {
+      "id": "id_1783204311478_9480",
+      "name": "10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI | 2027",
+      "subject": "Keşif",
+      "color": "#F2A65A",
+      "sourceId": "PLbRoPq-Zu-SWKpzMkLAF1Yp07NsuitEJy",
+      "originalQuery": "Tyt din",
+      "steps": [
+        {
+          "title": "1. Ders: BİLGİ VE İNANÇ | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 1. GÜN",
+          "videoId": "BaCC9rDSWHI",
+          "completed": false
+        },
+        {
+          "title": "2. Ders: DİN VE İSLAM | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 2. GÜN",
+          "videoId": "jwdo-q7mKhw",
+          "completed": false
+        },
+        {
+          "title": "3. Ders: İSLAM VE İBADET | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 3. GÜN",
+          "videoId": "8G5JLxIu3m4",
+          "completed": false
+        },
+        {
+          "title": "4. Ders: GENÇLİK VE DEĞERLER | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 4. GÜN",
+          "videoId": "d7Fdm4pyEr8",
+          "completed": false
+        },
+        {
+          "title": "5. Ders: GÖNÜL COĞRAFYAMIZ | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 5. GÜN",
+          "videoId": "DcFEdtcTMTk",
+          "completed": false
+        },
+        {
+          "title": "6. Ders: ALLAH VE İNSAN İLİŞKİSİ | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 6. GÜN",
+          "videoId": "WfqcUgPVD7E",
+          "completed": false
+        },
+        {
+          "title": "7. Ders: HZ. MUHAMMED VE GENÇLİK | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 7. GÜN",
+          "videoId": "jGgL1CKaSi4",
+          "completed": false
+        },
+        {
+          "title": "8. Ders: DİN VE HAYAT | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 8. GÜN",
+          "videoId": "yYveOjJB99w",
+          "completed": false
+        },
+        {
+          "title": "9. Ders: AHLAKİ TUTUM VE DAVRANIŞLAR | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 9. GÜN",
+          "videoId": "Urym_L5y61A",
+          "completed": false
+        },
+        {
+          "title": "10. Ders: İSLAM DÜŞÜNCESİNDE YORUMLAR | 10 GÜNDE TYT DİN KÜLTÜRÜ KAMPI - 10. GÜN",
+          "videoId": "aCINgwDPqmU",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "id_1783204250676_6765",
+      "name": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR",
+      "subject": "Keşif",
+      "color": "#9C8CF2",
+      "sourceId": "PL5kIOunpmSBPHyNrLeMroVy5YE0ybh0r0",
+      "originalQuery": "Tyt felsefe",
+      "steps": [
+        {
+          "title": "1. Ders: TYT Felsefe Kampı - Tanıtım - Erdal Aydemir - 2026",
+          "videoId": "B9MDDoe3Qdc",
+          "completed": true
+        },
+        {
+          "title": "2. Ders: 1) TYT Felsefe Kampı - Felsefeyi Tanıma - Erdal Aydemir - 2026",
+          "videoId": "bUCzGk7Uzgw",
+          "completed": true
+        },
+        {
+          "title": "3. Ders: 2) TYT Felsefe Kampı - Felsefe ile Düşünme - Erdal Aydemir - 2026",
+          "videoId": "Afd4ca62BP8",
+          "completed": false
+        },
+        {
+          "title": "4. Ders: 3) TYT Felsefe Kampı - Varlık Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "MTHIswIbXXQ",
+          "completed": false
+        },
+        {
+          "title": "5. Ders: 4) TYT Felsefe Kampı - Bilgi Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "3xhgpbcIyk0",
+          "completed": false
+        },
+        {
+          "title": "6. Ders: 5) TYT Felsefe Kampı - Bilim Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "ITRObA8PlyA",
+          "completed": false
+        },
+        {
+          "title": "7. Ders: 6) TYT Felsefe Kampı - Ahlak Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "XB4wJFDSG6c",
+          "completed": false
+        },
+        {
+          "title": "8. Ders: 7) TYT Felsefe Kampı - Din Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "VJphGkjF7qo",
+          "completed": false
+        },
+        {
+          "title": "9. Ders: 8) TYT Felsefe Kampı - Siyaset Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "AVSHPxIxrIs",
+          "completed": false
+        },
+        {
+          "title": "10. Ders: 9) TYT Felsefe Kampı - Sanat Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "W4J06JRcFmw",
+          "completed": false
+        },
+        {
+          "title": "11. Ders: 10) TYT Felsefe Kampı - Felsefi Okuma ve Yazma - Erdal Aydemir - 2026",
+          "videoId": "ptEJl-o6wjw",
+          "completed": false
+        },
+        {
+          "title": "12. Ders: 11) TYT Felsefe Kampı - İlk Çağ Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "ksEzsQlFDBw",
+          "completed": false
+        },
+        {
+          "title": "13. Ders: 12) TYT Felsefe Kampı - Orta Çağ Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "DvQ6tkWb34I",
+          "completed": false
+        },
+        {
+          "title": "14. Ders: 13) TYT Felsefe Kampı - Rönesans Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "IGPo58-hI54",
+          "completed": false
+        },
+        {
+          "title": "15. Ders: 14) TYT Felsefe Kampı - Aydınlanma Felsefesi - Erdal Aydemir - 2026",
+          "videoId": "hPB6-OB-igg",
+          "completed": false
+        },
+        {
+          "title": "16. Ders: 15) TYT Felsefe Kampı - Çağdaş Felsefe - Erdal Aydemir - 2026",
+          "videoId": "7UK99BH1HaE",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "id_1783204213440_1475",
+      "name": "7 GÜNDE TYT FELSEFE KAMPI",
+      "subject": "Keşif",
+      "color": "#5FD9C6",
+      "sourceId": "PL4P7Q5QUoe-iodiVl_7z0IinPm4weN4dn",
+      "originalQuery": "Tyt felsefe",
+      "steps": [
+        {
+          "title": "1. Ders: TYT Felsefe Kampı Başlıyor | 7 Günde Tüm Felsefe Bitecek | 2026 |",
+          "videoId": "g2CatlHZ5Lw",
+          "completed": false
+        },
+        {
+          "title": "2. Ders: Felsefeyi Tanıma ve Felsefe ile Düşünme | 7 Günde TYT Felsefe Kampı | 1.Gün | 2026 |",
+          "videoId": "jzsL2q8qVak",
+          "completed": false
+        },
+        {
+          "title": "3. Ders: Varlık ve Bilgi Felsefesi | 7 Günde TYT Felsefe Kampı | 2.Gün | 2026 |",
+          "videoId": "hh2xzwJUJU8",
+          "completed": false
+        },
+        {
+          "title": "4. Ders: Bilim ve Ahlak Felsefesi | 7 Günde TYT Felsefe Kampı | 3.Gün | 2026 |",
+          "videoId": "DGbgFNRNxz4",
+          "completed": false
+        },
+        {
+          "title": "5. Ders: Din, Siyaset ve Sanat Felsefesi | 7 Günde TYT Felsefe Kampı | 4.Gün | 2026 |",
+          "videoId": "mepU1SduBxI",
+          "completed": false
+        },
+        {
+          "title": "6. Ders: Felsefi Okuma ve Yazma ile İlk Çağ Felsefesi | 7 Günde TYT Felsefe Kampı | 5.Gün | 2026 |",
+          "videoId": "iGdiBKpw3EM",
+          "completed": false
+        },
+        {
+          "title": "7. Ders: Orta Çağ ve Rönesans Felsefesi | 7 Günde TYT Felsefe Kampı | 6.Gün | 2026 |",
+          "videoId": "QZjKGS86FSM",
+          "completed": false
+        },
+        {
+          "title": "8. Ders: 18-19. Yüzyıl ile 20. Yüzyıl Felsefesi | 7 Günde TYT Felsefe Kampı |7.Gün | 2026 |",
+          "videoId": "z03091dFNWo",
+          "completed": false
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "id": "id_1783207422313_1142",
+      "day": "Pazartesi",
+      "task": ":00 - 09:25: Matematik çalışması (Türev)"
+    },
+    {
+      "id": "id_1783207422313_3778",
+      "day": "Pazartesi",
+      "task": ":25 - 10:00: Kısa aralık"
+    },
+    {
+      "id": "id_1783207422314_3282",
+      "day": "Salı",
+      "task": ":00 - 09:25: Kimya proje kapağı hazırlama"
+    },
+    {
+      "id": "id_1783207422314_3565",
+      "day": "Salı",
+      "task": ":25 - 10:00: Kısa aralık"
+    },
+    {
+      "id": "id_1783207422314_8528",
+      "day": "Çarşamba",
+      "task": ":00 - 09:25: Fizika çalışması"
+    },
+    {
+      "id": "id_1783207422314_8650",
+      "day": "Çarşamba",
+      "task": ":25 - 10:00: Kısa aralık"
+    },
+    {
+      "id": "id_1783207422314_774",
+      "day": "Perşembe",
+      "task": ":00 - 09:25: Kimya teorik çalışması"
+    },
+    {
+      "id": "id_1783207422314_7636",
+      "day": "Perşembe",
+      "task": ":25 - 10:00: Kısa aralık"
+    },
+    {
+      "id": "id_1783207422314_1972",
+      "day": "Cuma",
+      "task": "rtesi:"
+    },
+    {
+      "id": "id_1783207422314_1841",
+      "day": "Cuma",
+      "task": ":00 - 10:00: Genel hazırlık ve review"
+    },
+    {
+      "id": "id_1783207422314_614",
+      "day": "Cuma",
+      "task": "Her gün, çalışılan konunun ilgili bir notu yazarak, ilerleme kaydet. Bu, ilerlemeni görmek ve motivasyonunu artırmak için önemli bir adımdır."
+    },
+    {
+      "id": "id_1783207422314_4356",
+      "day": "Cuma",
+      "task": "Her gün, hedefini bir kez daha düşün ve motive et. \"Bugün, 10. sınıf hedefine bir adım yaklaştım!\" gibi."
+    },
+    {
+      "id": "id_1783207422314_2300",
+      "day": "Cuma",
+      "task": "Her gün, kendini takdir et ve motive et. \"Bugün, gerçekten iyi bir iş yaptım!\" gibi."
+    },
+    {
+      "id": "id_1783256775857_9791",
+      "day": "Pazartesi",
+      "task": ":00 - 09:25**: Matematik çalışması (Türev)"
+    },
+    {
+      "id": "id_1783256775857_6240",
+      "day": "Pazartesi",
+      "task": ":25 - 10:00**: Kısa aralık"
+    },
+    {
+      "id": "id_1783256775857_8098",
+      "day": "Salı",
+      "task": ":00 - 09:25**: Kimya proje kapağı hazırlama"
+    },
+    {
+      "id": "id_1783256775858_3561",
+      "day": "Salı",
+      "task": ":25 - 10:00**: Kısa aralık"
+    },
+    {
+      "id": "id_1783256775858_7980",
+      "day": "Çarşamba",
+      "task": ":00 - 09:25**: Fizika çalışması"
+    },
+    {
+      "id": "id_1783256775858_987",
+      "day": "Çarşamba",
+      "task": ":25 - 10:00**: Kısa aralık"
+    },
+    {
+      "id": "id_1783256775858_546",
+      "day": "Perşembe",
+      "task": ":00 - 09:25**: Kimya teorik çalışması"
+    },
+    {
+      "id": "id_1783256775858_7371",
+      "day": "Perşembe",
+      "task": ":25 - 10:00**: Kısa aralık"
+    },
+    {
+      "id": "id_1783256775858_5796",
+      "day": "Cuma",
+      "task": ":00 - 10:00**: Genel hazırlık ve review"
+    },
+    {
+      "id": "id_1783256775859_9871",
+      "day": "Cuma",
+      "task": "Her gün:"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "text": "40 soru — Matematik / Türev",
+      "done": true,
+      "priority": "high",
+      "subject": "Matematik"
+    },
+    {
+      "id": 2,
+      "text": "Kimya proje kapağını hazırla",
+      "done": true,
+      "priority": "med",
+      "subject": "Kimya"
+    }
+  ],
+  "decks": [],
+  "notes": [],
+  "activeNoteId": null,
+  "events": [],
+  "goals": [],
+  "badges": [
+    {
+      "ic": "🔥",
+      "n": "7 Gün Seri",
+      "unlocked": true
+    },
+    {
+      "ic": "⏱️",
+      "n": "100 Saat",
+      "unlocked": true
+    },
+    {
+      "ic": "📚",
+      "n": "Kart Ustası",
+      "unlocked": true
+    },
+    {
+      "ic": "🎯",
+      "n": "Keskin Nişancı",
+      "unlocked": false
+    }
+  ],
+  "blockedSites": [],
+  "sessionLog": [
+    {
+      "subject": "Matematik",
+      "minutes": 25,
+      "when": "2026-07-04T21:21:15.339Z"
+    },
+    {
+      "subject": "Kimya",
+      "minutes": 25,
+      "when": "2026-07-03T21:21:15.339Z"
+    }
+  ],
+  "youtubeMusicUrl": "https://youtu.be/SlmOjNqMtuE?si=Tqu0c7-tGN-URw2f",
+  "wrongQuestions": [
+    {
+      "id": "id_1783204284442_908",
+      "q": "Felsefenin temel sorularından biri olan 'Varlık ve Yokluk' sorusuna hangi felsefe akımının cevabı 'Varlık' diyerek cevap vermekte ve bunun nedenlerini açıklamaktadır?",
+      "options": [
+        "Aristotelesçi Platonculuk",
+        "Eflatunculuk",
+        "Aristotelesçilik",
+        "Kantçılık"
+      ],
+      "correct": 2,
+      "userAns": 1,
+      "svg": "",
+      "campName": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR"
+    },
+    {
+      "id": "id_1783204286126_3878",
+      "q": "Felsefe Kampı'nda ele alınan 'Felsefe Metinleri' bölümünde, Platon'un 'Theaetetus' adlı eserinde felsefenin tanımı olarak 'Bilgi'ni nasıl tanımlamıştır?",
+      "options": [
+        "Bilgi, algının bir ürünüdür.",
+        "Bilgi, algının dışında bir gerçeklik dir.",
+        "Bilgi, algı ve gerçeklik arasındaki ilişkidir.",
+        "Bilgi, algının bir sonucu değildir."
+      ],
+      "correct": 1,
+      "userAns": 0,
+      "svg": "",
+      "campName": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR"
+    },
+    {
+      "id": "id_1783204287372_8389",
+      "q": "Felsefe Kampı'nda ele alınan 'Felsefe Akımları' bölümünde, Kant'ın 'Kritik Felsefe' adlı eserinde 'Felsefe Akımları' nasıl sınıflandırılmıştır?",
+      "options": [
+        "Kant, felsefe akımlarını dogmatik ve kritik akımlar olarak sınıflandırır.",
+        "Kant, felsefe akımlarını empirik ve rasyonalist akımlar olarak sınıflandırır.",
+        "Kant, felsefe akımlarını idealist ve materyalist akımlar olarak sınıflandırır.",
+        "Kant, felsefe akımlarını rasyonalist ve empirik akımlar olarak sınıflandırır."
+      ],
+      "correct": 0,
+      "userAns": 1,
+      "svg": "",
+      "campName": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR"
+    },
+    {
+      "id": "id_1783204288584_7039",
+      "q": "Felsefe Kampı'nda ele alınan 'Felsefe Metinleri' bölümünde, Aristoteles'in 'Nikomakhos'un Etik' adlı eserinde 'Nikomakhos'un Etik' adlı eserde 'Felsefe' tanımı olarak neyi tanımlamıştır?",
+      "options": [
+        "Felsefe, aklın bir ürünüdür.",
+        "Felsefe, algının bir ürünüdür.",
+        "Felsefe, aklın ve algının bir ürünüdür.",
+        "Felsefe, algının bir sonucu değildir."
+      ],
+      "correct": 3,
+      "userAns": 0,
+      "svg": "",
+      "campName": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR"
+    },
+    {
+      "id": "id_1783204289925_3249",
+      "q": "Felsefe Kampı'nda ele alınan 'Felsefe Akımları' bölümünde, Eflatunculuk felsefe akımının temel prensibi olarak neyi savunmuştur?",
+      "options": [
+        "Varlık, bir tek gerçeklik dir.",
+        "Varlık, çeşitli gerçeklikler dir.",
+        "Varlık, bir tek gerçeklik ve çeşitli gerçeklikler dir.",
+        "Varlık, çeşitli gerçeklikler ve bir tek gerçeklik dir."
+      ],
+      "correct": 1,
+      "userAns": 2,
+      "svg": "",
+      "campName": "2026 / TYT Felsefe Video Ders Notları - Konu Anlatım Videoları - Erdal AYDEMİR"
+    }
+  ],
+  "distractions": [],
+  "voiceEnabled": false
+}
